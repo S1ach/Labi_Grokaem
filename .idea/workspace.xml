@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58bcf672-3527-47fd-b751-98c301b64038" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/README-Deprecated.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/encrypt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/read.cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/read.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/read.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/lib/readline-sync.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readline-sync/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laba 3.js" beforeDir="false" afterPath="$PROJECT_DIR$/laba 3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laba 4.js" beforeDir="false" afterPath="$PROJECT_DIR$/laba 4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laba 5.js" beforeDir="false" afterPath="$PROJECT_DIR$/laba 5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laba 6/laba 6.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/laba 6/laba 6.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laba 6/task 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/laba 6/task 1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laba 6/task 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/laba 6/task 2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba 7/laba 7.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba 7/laba 7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,43 +33,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.laba 3.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.laba 4.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.laba 5.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.laba 6.2.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.laba 6.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.zadanie 1.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.zadanie 2.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.12.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.12.0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.laba 3.js.executor": "Run",
+    "Node.js.laba 4.js.executor": "Run",
+    "Node.js.laba 5.js.executor": "Run",
+    "Node.js.laba 6.2.js.executor": "Run",
+    "Node.js.laba 6.js.executor": "Run",
+    "Node.js.laba 7.2.js.executor": "Run",
+    "Node.js.laba 7.js.executor": "Run",
+    "Node.js.zadanie 1.js.executor": "Run",
+    "Node.js.zadanie 2.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "22.12.0",
+    "javascript.nodejs.core.library.typings.version": "22.12.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laba 7" />
       <recent name="$PROJECT_DIR$/laba 6" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.laba 6.2.js">
-    <configuration name="laba 3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 3.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.laba 7.2.js">
     <configuration name="laba 4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 4.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="laba 5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 5.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="laba 6.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 6/laba 6.1.js" working-dir="$PROJECT_DIR$">
@@ -96,13 +75,19 @@
     <configuration name="laba 6.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 6/laba 6.2.js" working-dir="$PROJECT_DIR$/laba 6">
       <method v="2" />
     </configuration>
+    <configuration name="laba 7.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 7/laba 7.1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="laba 7.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/laba 7/laba 7.2.js" working-dir="$PROJECT_DIR$/laba 7">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.laba 7.2.js" />
+        <item itemvalue="Node.js.laba 7.1.js" />
         <item itemvalue="Node.js.laba 6.2.js" />
         <item itemvalue="Node.js.laba 6.1.js" />
         <item itemvalue="Node.js.laba 4.js" />
-        <item itemvalue="Node.js.laba 5.js" />
-        <item itemvalue="Node.js.laba 3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +108,8 @@
       <updated>1743613214641</updated>
       <workItem from="1743613215720" duration="5123000" />
       <workItem from="1743683883088" duration="17573000" />
-      <workItem from="1743857883193" duration="879000" />
+      <workItem from="1743857883193" duration="2542000" />
+      <workItem from="1743886967745" duration="2575000" />
     </task>
     <servers />
   </component>
